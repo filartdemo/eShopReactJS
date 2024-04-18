@@ -1,0 +1,10 @@
+.playfair-display-900 {
+  font-family: "Playfair Display", serif;
+  font-optical-sizing: auto;
+  font-weight: 900;
+  font-style: normal;
+}
+
+.nav-item a {
+    font-weight: 600;
+}
