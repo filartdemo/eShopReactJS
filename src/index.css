@@ -1,0 +1,36 @@
+html {
+  background-color: #3f386d;
+}
+
+body {
+	margin: 0;
+	font-family: "Josefin Sans", "Segoe UI",
+		"Helvetica Neue", -apple-system, BlinkMacSystemFont,
+		"Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", sans-serif;
+	font-optical-sizing: auto;
+	font-weight: 300;
+	font-style: normal;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+  background-color: #3f386d;
+  color: white;
+}
+
+code {
+	font-family: "Cascadia Code", "JetBrains Mono", "Cascadia Mono", source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+		monospace;
+}
+
+h, h1, h2, h3, h4, h5, h6 {
+  font-family: "Playfair Display", serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
+strong {
+  font-weight: 800;
+}
+em {
+  font-style: italic;
+}
